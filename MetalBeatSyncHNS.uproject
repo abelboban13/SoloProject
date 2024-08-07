@@ -23,6 +23,14 @@
 		{
 			"Name": "FMODStudioNiagara",
 			"Enabled": true
+		},
+		{
+			"Name": "WwiseNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "Wwise",
+			"Enabled": false
 		}
 	]
 }
