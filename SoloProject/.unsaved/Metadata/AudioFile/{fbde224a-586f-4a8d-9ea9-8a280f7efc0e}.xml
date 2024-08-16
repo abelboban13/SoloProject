@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fbde224a-586f-4a8d-9ea9-8a280f7efc0e}">
+		<property name="assetPath">
+			<value>TheComeback.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>63.75</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{29530765-3be4-492e-8cb6-b1fc47cb581b}</destination>
+		</relationship>
+	</object>
+</objects>
