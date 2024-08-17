@@ -31,6 +31,10 @@
 		{
 			"Name": "Wwise",
 			"Enabled": false
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
